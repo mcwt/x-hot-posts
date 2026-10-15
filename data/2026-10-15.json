@@ -1,0 +1,262 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15 09:10 北京时间",
+  "window": "过去48小时",
+  "categories": [
+    {
+      "name": "政治",
+      "items": [
+        {
+          "rank": 1,
+          "title": "前民主党州长称奥马尔或面临“叛国”指控",
+          "url": "https://x.com/bennyjohnson/status/2110037866579444050",
+          "author": "@bennyjohnson",
+          "likes": 46049,
+          "summary": "Blagojevich称民主党任命法官因紧急事由批准突袭奥马尔住所。"
+        },
+        {
+          "rank": 2,
+          "title": "马斯克：Starshield 由美政府掌控",
+          "url": "https://x.com/elonmusk/status/2110445577184133456",
+          "author": "@elonmusk",
+          "likes": 37630,
+          "summary": "回应乌克兰方面指责，称限速与用途由美军及总统决定。"
+        },
+        {
+          "rank": 3,
+          "title": "白宫纪念查理·柯克 33 岁冥诞",
+          "url": "https://x.com/WhiteHouse/status/2110459103349022978",
+          "author": "@WhiteHouse",
+          "likes": 29561,
+          "summary": "称其为保守派运动巨人，誓言捍卫真理与公开辩论。"
+        },
+        {
+          "rank": 4,
+          "title": "奥马尔突袭案或进入联邦大陪审团",
+          "url": "https://x.com/EricLDaugh/status/2109982078242627593",
+          "author": "@EricLDaugh",
+          "likes": 18894,
+          "summary": "Fox 报道法官签批的刑事调查，或有更多突袭。"
+        },
+        {
+          "rank": 5,
+          "title": "万斯：对奥马尔有严肃指控，依法办案",
+          "url": "https://x.com/EricLDaugh/status/2110002445929545940",
+          "author": "@EricLDaugh",
+          "likes": 11452,
+          "summary": "副总统称事先不知情，强调事实与法律先行。"
+        },
+        {
+          "rank": 6,
+          "title": "司法部公布近 5 亿美元欺诈指控",
+          "url": "https://x.com/EricLDaugh/status/2110440527933960474",
+          "author": "@EricLDaugh",
+          "likes": 6661,
+          "summary": "含墨西哥公民伪造报税申领退税等多起案件。"
+        },
+        {
+          "rank": 7,
+          "title": "参议院民主党拟派百人观察中期选举",
+          "url": "https://x.com/marceelias/status/2110475564733637068",
+          "author": "@marceelias",
+          "likes": 5360,
+          "summary": "九州投票点部署国会工作人员，应对联邦干预担忧。"
+        },
+        {
+          "rank": 8,
+          "title": "律师称可不经审判剥夺奥马尔公民身份",
+          "url": "https://x.com/bennyjohnson/status/2110429111080419345",
+          "author": "@bennyjohnson",
+          "likes": 5026,
+          "summary": "Mike Davis 指国土安全部长依法可启动遣返机制。"
+        },
+        {
+          "rank": 9,
+          "title": "桑德斯呼吁对亿万富翁征 5% 财富税",
+          "url": "https://x.com/BernieSanders/status/2110437732812210293",
+          "author": "@BernieSanders",
+          "likes": 4563,
+          "summary": "称前 1% 财富超过底部 93%，加州及全美应开征。"
+        },
+        {
+          "rank": 10,
+          "title": "舒默：特朗普对普京一无所获",
+          "url": "https://x.com/SenSchumer/status/2110105519000375806",
+          "author": "@SenSchumer",
+          "likes": 4405,
+          "summary": "讽刺“交易艺术”，批评对俄妥协未换来实质回报。"
+        }
+      ]
+    },
+    {
+      "name": "金融",
+      "items": [
+        {
+          "rank": 1,
+          "title": "美股单日蒸发约 1 万亿美元",
+          "url": "https://x.com/WatcherGuru/status/2110471187025575982",
+          "author": "@WatcherGuru",
+          "likes": 6241,
+          "summary": "热通胀数据后美股市值大幅缩水。"
+        },
+        {
+          "rank": 2,
+          "title": "巴克莱：特斯拉与 SpaceX 或年底前合并",
+          "url": "https://x.com/WatcherGuru/status/2110469236430876672",
+          "author": "@WatcherGuru",
+          "likes": 5909,
+          "summary": "报道称马斯克两大公司可能在 12 月前宣布合并计划。"
+        },
+        {
+          "rank": 3,
+          "title": "吉姆·克拉默：熊市势头难挡",
+          "url": "https://x.com/WatcherGuru/status/2110434307848183843",
+          "author": "@WatcherGuru",
+          "likes": 5221,
+          "summary": "CNBC 名嘴称当前空头力量难以阻挡。"
+        },
+        {
+          "rank": 4,
+          "title": "芬克警告禁建数据中心或引发衰退",
+          "url": "https://x.com/WatcherGuru/status/2110429981088338392",
+          "author": "@WatcherGuru",
+          "likes": 2990,
+          "summary": "贝莱德 CEO 称限制数据中心建设可能触发美国衰退。"
+        },
+        {
+          "rank": 5,
+          "title": "芬克：美国利率将长期维持高位",
+          "url": "https://x.com/WatcherGuru/status/2110433258546622751",
+          "author": "@WatcherGuru",
+          "likes": 2613,
+          "summary": "归因于 AI 资本需求与巨额联邦赤字。"
+        },
+        {
+          "rank": 6,
+          "title": "美国 CPI 升至 3.7%，超预期",
+          "url": "https://x.com/DeItaone/status/2110347514683490356",
+          "author": "@DeItaone",
+          "likes": 1674,
+          "summary": "9 月 CPI 同比 3.7%，核心环比 0.3%，汽油大涨。"
+        },
+        {
+          "rank": 7,
+          "title": "美联储本月加息概率因 CPI 急升",
+          "url": "https://x.com/WatcherGuru/status/2110397174513369307",
+          "author": "@WatcherGuru",
+          "likes": 1656,
+          "summary": "热通胀报告后市场上调 25 个基点加息押注。"
+        },
+        {
+          "rank": 8,
+          "title": "债券策略师警告收益率 6% 或触发抛售",
+          "url": "https://x.com/DeItaone/status/2110063457311617171",
+          "author": "@DeItaone",
+          "likes": 770,
+          "summary": "Bassman 称 20 年期国债收益率破 6% 或引发约 1100 亿美元对冲卖压。"
+        },
+        {
+          "rank": 9,
+          "title": "零对冲：科技股抛售主因 Hock Tan 融资瓶颈论",
+          "url": "https://x.com/zerohedge/status/2109819417097810034",
+          "author": "@zerohedge",
+          "likes": 662,
+          "summary": "摩根大通分析师指博通 CEO 警告融资比零部件更紧。"
+        },
+        {
+          "rank": 10,
+          "title": "未取整 CPI 显示通胀更热",
+          "url": "https://x.com/DeItaone/status/2110349054815174737",
+          "author": "@DeItaone",
+          "likes": 635,
+          "summary": "未取整月环比约 0.65%，核心约 0.34%，高于预期。"
+        }
+      ]
+    },
+    {
+      "name": "加密货币",
+      "items": [
+        {
+          "rank": 1,
+          "title": "Saylor：Strive 把数字股权需求转为比特币需求",
+          "url": "https://x.com/saylor/status/2110000863473447384",
+          "author": "@saylor",
+          "likes": 4484,
+          "summary": "称资本市场正加速比特币采用。"
+        },
+        {
+          "rank": 2,
+          "title": "Saylor 世界银行演讲：比特币是金融未来",
+          "url": "https://x.com/saylor/status/2110021321975308351",
+          "author": "@saylor",
+          "likes": 4262,
+          "summary": "DC Fintech Week 炉边谈话，谈 Strategy 储备机构定位。"
+        },
+        {
+          "rank": 3,
+          "title": "Saylor：比特币是原始金融能量",
+          "url": "https://x.com/saylor/status/2110063356262469912",
+          "author": "@saylor",
+          "likes": 2929,
+          "summary": "彭博访谈谈牛市布局、AI 与数字信贷。"
+        },
+        {
+          "rank": 4,
+          "title": "渣打银行阿联酋上线 BTC/ETH 交易",
+          "url": "https://x.com/WatcherGuru/status/2110315645237965228",
+          "author": "@WatcherGuru",
+          "likes": 2357,
+          "summary": "合资格客户可直接通过银行账户交易比特币与以太坊。"
+        },
+        {
+          "rank": 5,
+          "title": "Saylor 解读 STRF 数字信贷产品",
+          "url": "https://x.com/saylor/status/2110460760531021924",
+          "author": "@saylor",
+          "likes": 1330,
+          "summary": "三分钟介绍由比特币支撑的优先股产品。"
+        },
+        {
+          "rank": 6,
+          "title": "财政部再回购至多 60 亿美元长期债",
+          "url": "https://x.com/BitcoinMagazine/status/2110458719280746998",
+          "author": "@BitcoinMagazine",
+          "likes": 908,
+          "summary": "美财政部将再次回购长期国债，社区将其与买 BTC 叙事挂钩。"
+        },
+        {
+          "rank": 7,
+          "title": "SEC 为 Bitwise 狗狗币 ETF 提交 Form 25",
+          "url": "https://x.com/Cointelegraph/status/2110103431880782089",
+          "author": "@Cointelegraph",
+          "likes": 747,
+          "summary": "代号 DOGE 的 Bitwise Dogecoin ETF 进入关键文件阶段。"
+        },
+        {
+          "rank": 8,
+          "title": "神秘巨鲸 Hyperliquid 近乎全胜赚约 2975 万美元",
+          "url": "https://x.com/lookonchain/status/2109882312876015922",
+          "author": "@lookonchain",
+          "likes": 682,
+          "summary": "四个新钱包 15 笔交易几乎全赢，今日再开多。"
+        },
+        {
+          "rank": 9,
+          "title": "摩根大通估今年流入加密约 500 亿美元",
+          "url": "https://x.com/Cointelegraph/status/2110058135196999772",
+          "author": "@Cointelegraph",
+          "likes": 604,
+          "summary": "Q3 ETF 与期货仓位增强，动能延续至 Q4。"
+        },
+        {
+          "rank": 10,
+          "title": "白宫官员：正探索增持更多比特币",
+          "url": "https://x.com/BitcoinMagazine/status/2110442158440296881",
+          "author": "@BitcoinMagazine",
+          "likes": 573,
+          "summary": "Patrick Witt 称在妥善托管后探索扩大战略比特币储备。"
+        }
+      ]
+    }
+  ]
+}
